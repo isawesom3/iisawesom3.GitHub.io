@@ -15,6 +15,11 @@ This is a spaceship game. Use th joystick to move. Dodge flying bogeys! Press A 
 Have fun!
 
 
-Alexander Z- Music- https://makecode.com/_Mb404iKw3ck6 bubble- https://makecode.com/_4Xme9Dc4R04H
+https://makecode.com/_Mb404iKw3ck6
+This is a zune(A.K.A. music player) where you can move the joystick and listen to different songs.
 
+
+
+https://makecode.com/_4Xme9Dc4R04H
+This is a bubble popping game. Move the joystick left and right and then press A to shoot the bubble.
 
