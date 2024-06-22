@@ -11,6 +11,8 @@ try not to lose so much juice before the timer runs out!
 
 
 https://makecode.com/_ixjDseTvXgz0
+This is a spaceship game. Use th joystick to move. Dodge flying bogeys! Press A to shoot at them.
+Have fun!
 
 
 Alexander Z- Music- https://makecode.com/_Mb404iKw3ck6 bubble- https://makecode.com/_4Xme9Dc4R04H
