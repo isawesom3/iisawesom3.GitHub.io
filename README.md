@@ -29,5 +29,5 @@ https://makecode.com/_gKgaKTHUMMRv
 This is a dinosaur game. Move around and collect dinos while dodging skulls.
 
 
-https://makecode.com/_YbKYFeW088bi
+(https://makecode.com/_b2JHHYCfgD1W
 When you start you'll be moving, and there are obstacles you can jump over by pressing space or A.://makecode.com/_RD2hdsAWxe4E
