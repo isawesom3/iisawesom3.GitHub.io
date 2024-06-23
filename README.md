@@ -26,8 +26,8 @@ This is a bubble popping game. Move the joystick left and right and then press A
 
 
 https://makecode.com/_gKgaKTHUMMRv
-This is a dinosaur game. Move around and collect dinos while dodging skulls!
+This is a dinosaur game. Move around and collect dinos while dodging skulls.
 
-[
-](https://makecode.com/_RD2hdsAWxe4E)
+
+https://makecode.com/_YbKYFeW088bi
 When you start you'll be moving, and there are obstacles you can jump over by pressing space or A.://makecode.com/_RD2hdsAWxe4E
