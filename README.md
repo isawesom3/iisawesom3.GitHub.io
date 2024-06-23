@@ -24,3 +24,7 @@ This is a zune(A.K.A. music player) where you can move the joystick and listen t
 https://makecode.com/_4Xme9Dc4R04H
 This is a bubble popping game. Move the joystick left and right and then press A to shoot the bubble.
 
+
+https://makecode.com/_gKgaKTHUMMRv
+This is a dinosaur game. Move around and collect dinos while dodging skulls!
+
