@@ -26,6 +26,11 @@ This is a bubble popping game. Move the joystick left and right and then press A
 
 
 https://makecode.com/_gKgaKTHUMMRv
+This is a monster truck game. There are obstacles you can jump over. Jump by pressing A or space
+
+
+
+
 This is a dinosaur game. Move around and collect dinos while dodging skulls!
 
 [
