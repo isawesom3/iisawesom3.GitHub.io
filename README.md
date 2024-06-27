@@ -32,3 +32,8 @@ This is a dinosaur game. Move around and collect dinos while dodging skulls.
 
 https://makecode.com/_b2JHHYCfgD1W
 When you start you'll be moving, and there are obstacles you can jump over by pressing space or A.://makecode.com/_RD2hdsAWxe4E
+
+
+https://scratch.mit.edu/projects/1042559339
+this is a simple chase game. there is a griffin that chases you avatar. move your person around with THE WASD keys AnD ThE ArRoW kEyS.
+ps the persons name is Anderson.
